@@ -1,4 +1,4 @@
 
-import 'package:hive/hive.dart';
 
 const loginData = 'LOGIN_DATA';
+const homeData = 'HOME_DATA';

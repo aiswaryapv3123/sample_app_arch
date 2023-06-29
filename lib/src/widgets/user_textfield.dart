@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sample_app/src/constants/app_constants.dart';
 import 'package:sample_app/src/constants/text_styles.dart';
